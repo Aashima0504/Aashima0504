@@ -17,3 +17,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashima0504&show_icons=true&locale=en&layout=compact" alt="aashima0504" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashima0504&" alt="aashima0504" /></p>
+<img data-importer="snake" src="https://raw.githubusercontent.com/Aashima0504/Aashima0504/snake-output/snake.svg" alt="Snake animation" />
+
+###
