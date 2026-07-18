@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aashima</h1>
 <h3 align="center">B.Tech CS student @ Bennett University (2024–2028) | AI/ML enthusiast | Building FastAPI + Supabase projects | Exploring ML-driven products</h3>
 
-- 🔭 I’m currently working on [LOKAAMA](https://github.com/Aashima0504/Lokaama)
+- 🔭 I’m currently working on [KaarigarConnect]([https://github.com/Aashima0504/Lokaama](https://github.com/Aashima0504/KaarigarConnect))
 
 - 🌱 I’m currently learning **LLMS and MCP**
 
